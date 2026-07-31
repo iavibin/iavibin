@@ -8,6 +8,11 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Vibin+%F0%9F%9A%80" alt="Typing SVG" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
 </div>
@@ -26,8 +31,9 @@ class Vibin:
     def __init__(self):
         self.name = "Vibin"
         self.username = "iavibin"
-        self.languages = ["Python", "C", "C++", "Java", "JavaScript", "HTML", "CSS"]
+        self.languages = ["Python", "C", "C++", "Java", "HTML"]
         self.currently_learning = ["JavaScript", "CSS", "MongoDB"]
+        self.tools = ["git", "github", "mysql", "flask", "arduino", "fastapi"]
         self.currently_building = ["Rimuru", "Ditto", "Sentinel-APK", "AirGuard"]
         self.interests = [
             "Hackathons", 
@@ -43,7 +49,7 @@ class Vibin:
 <!-- SKILLS -->
 <div align="center">
 
-### 🛠 Tools
+## Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
