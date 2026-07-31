@@ -3,12 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=200&section=header&descAlignY=51&descAlign=62" alt="Header Banner" />
 </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=iavibin&color=0D1117&style=flat-square&label=PROFILE+VIEWS&labelColor=00FF88" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/iavibin?color=0D1117&style=flat-square&logo=github&logoColor=0D1117&label=FOLLOWERS&labelColor=00FF88" alt="Followers" />
-    <img src="https://img.shields.io/badge/iavibin-0D1117?style=flat-square&logo=github&logoColor=0D1117&label=GITHUB&labelColor=00FF88" alt="GitHub Username" />
-</div>
-
 <br />
 
 <div align="center">
@@ -18,6 +12,12 @@
 </div>
 
 <br />
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=iavibin&color=0D1117&style=flat-square&label=PROFILE+VIEWS&labelColor=00FF88" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/iavibin?color=0D1117&style=flat-square&logo=github&logoColor=0D1117&label=FOLLOWERS&labelColor=00FF88" alt="Followers" />
+    <img src="https://img.shields.io/badge/iavibin-0D1117?style=flat-square&logo=github&logoColor=0D1117&label=GITHUB&labelColor=00FF88" alt="GitHub Username" />
+</div>
 
 <!-- ABOUT -->
 ```python
@@ -31,11 +31,9 @@ class Vibin:
         self.interests = [
             "Hackathons", 
             "Open Source", 
-            "Backend Development", 
-            "Automation", 
-            "Artificial Intelligence", 
-            "Developer Tools"
-        ]
+            "Developer Tools",
+            "Artificial Intelligence"]
+            
         self.goal = "Build impactful software and continuously improve through projects, open-source contributions and hackathons."
 ```
 
