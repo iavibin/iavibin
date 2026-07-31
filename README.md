@@ -33,7 +33,7 @@ class Vibin:
             "Open Source", 
             "Developer Tools",
             "Artificial Intelligence"]
-            
+
         self.goal = "Build impactful software and continuously improve through projects, open-source contributions and hackathons."
 ```
 
@@ -71,10 +71,6 @@ class Vibin:
 
 <!-- STATS -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iavibin&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=A6A6A6&icon_color=39FF14&show_icons=true" alt="GitHub Stats" />
-    <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iavibin&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=A6A6A6&layout=compact&langs_count=7" alt="Top Languages" />
-    <br /><br />
     <img src="https://streak-stats.demolab.com/?user=iavibin&theme=dark&hide_border=true&background=0D1117&fire=00FF88&ring=00C853&currStreakNum=39FF14&sideNums=A6A6A6&currStreakLabel=00FF88&sideLabels=00FF88&dates=A6A6A6" alt="GitHub Streak" />
 </div>
 
@@ -102,10 +98,10 @@ class Vibin:
     <a href="https://linkedin.com/in/iavibin">
         <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn" />
     </a>
-    <a href="#">
+    <a href="https://iavibin.bolt.host/">
         <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=00FF88" alt="Portfolio" />
     </a>
-    <a href="mailto:vibin@example.com">
+    <a href="mailto:iavibin08@gmail.com">
         <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" />
     </a>
 </div>
