@@ -13,7 +13,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=DFFFF1&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
 </div>
 
@@ -23,6 +23,9 @@
     <img src="https://komarev.com/ghpvc/?username=iavibin&color=0D1117&style=flat-square&label=PROFILE+VIEWS&labelColor=00FF88" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/iavibin?color=0D1117&style=flat-square&logo=github&logoColor=0D1117&label=FOLLOWERS&labelColor=00FF88" alt="Followers" />
     <img src="https://img.shields.io/badge/iavibin-0D1117?style=flat-square&logo=github&logoColor=0D1117&label=GITHUB&labelColor=00FF88" alt="GitHub Username" />
+    <p>
+    
+    </p>
 </div>
 
 <!-- ABOUT -->
@@ -34,7 +37,6 @@ class Vibin:
         self.languages = ["Python", "C", "C++", "Java", "HTML"]
         self.currently_learning = ["JavaScript", "CSS", "MongoDB"]
         self.tools = ["git", "github", "mysql", "flask", "arduino", "fastapi"]
-        self.currently_building = ["Rimuru", "Ditto", "Sentinel-APK", "AirGuard"]
         self.interests = [
             "Hackathons", 
             "Open Source", 
@@ -59,10 +61,10 @@ class Vibin:
   <img src="https://skillicons.dev/icons?i=js&theme=dark" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 </p>
 
@@ -85,7 +87,7 @@ class Vibin:
 
 <!-- GRAPH -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iavibin&theme=react-dark&bg_color=0D1117&color=00FF88&line=00FF88&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iavibin&theme=react-dark&bg_color=0D1117&color=008E55&line=00FF88&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br />
@@ -93,13 +95,13 @@ class Vibin:
 <!-- CONNECT -->
 <div align="center">
     <a href="https://github.com/iavibin">
-        <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-008E55?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/iavibin">
         <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn" />
     </a>
     <a href="https://iavibin.bolt.host/">
-        <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=00FF88" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-008E55?style=for-the-badge&logoColor=0D1117" alt="Portfolio" />
     </a>
     <a href="mailto:iavibin08@gmail.com">
         <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" />
