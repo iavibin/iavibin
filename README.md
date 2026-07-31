@@ -70,6 +70,7 @@ class Vibin:
 
 <!-- STATS -->
 <div align="center">
+    <p align="center" style="color:00FF88;">GitHub Streak</p>
     <img src="https://streak-stats.demolab.com/?user=iavibin&theme=dark&hide_border=true&background=0D1117&fire=00FF88&ring=00C853&currStreakNum=39FF14&sideNums=A6A6A6&currStreakLabel=00FF88&sideLabels=00FF88&dates=A6A6A6" alt="GitHub Streak" />
 </div>
 
@@ -77,6 +78,7 @@ class Vibin:
 
 <!-- CONTRIBUTION JOURNEY -->
 <div align="center">
+    <p align="center" style="color:00FF88;">Contribution Calendar</p>
     <img src="https://ghchart.rshah.org/00FF88/iavibin" alt="Contribution Calendar" />
 </div>
 
@@ -84,7 +86,7 @@ class Vibin:
 
 <!-- GRAPH -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iavibin&theme=react-dark&bg_color=0D1117&color=008E55&line=00FF88&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iavibin&theme=react-dark&bg_color=0D1117&color=00FF88&line=00FF88&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br />
