@@ -7,7 +7,8 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Vibin;Fullstack+Developer;Building+Practical+Software;Hackathon+Builder;Open+Source+Learner;Always+Shipping+Something+%F0%9F%9A%80" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Vibin+%F0%9F%9A%80" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
 </div>
 
@@ -42,9 +43,21 @@ class Vibin:
 <!-- SKILLS -->
 <div align="center">
 
+### 🛠 Tools
+
 <p align="center">
-### Tools
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,mysql,vscode,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 </p>
 
 </div>
