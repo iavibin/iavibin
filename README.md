@@ -3,8 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=200&section=header&descAlignY=51&descAlign=62" alt="Header Banner" />
 </div>
 
-<br />
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Vibin" alt="Typing SVG" />
@@ -117,8 +115,6 @@ class Vibin:
 ```
 
 </div>
-
-<br />
 
 <!-- FOOTER -->
 <div align="center">
