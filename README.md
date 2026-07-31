@@ -41,6 +41,9 @@ class Vibin:
 
 <!-- SKILLS -->
 <div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,mongodb,vscode,nodejs,fastapi,react,flask,arduino&theme=dark" />
+</p>
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF88" alt="Python" /> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF88" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF88" alt="C++" /> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logoColor=00FF88" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=00FF88" alt="CSS" />
