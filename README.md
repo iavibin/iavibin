@@ -23,11 +23,9 @@
     <img src="https://komarev.com/ghpvc/?username=iavibin&color=0D1117&style=flat-square&label=PROFILE+VIEWS&labelColor=00FF88" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/iavibin?color=0D1117&style=flat-square&logo=github&logoColor=0D1117&label=FOLLOWERS&labelColor=00FF88" alt="Followers" />
     <img src="https://img.shields.io/badge/iavibin-0D1117?style=flat-square&logo=github&logoColor=0D1117&label=GITHUB&labelColor=00FF88" alt="GitHub Username" />
-</div>
-
-<div>
 
 </div>
+<br />
 
 <!-- ABOUT -->
 ```python
