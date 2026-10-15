@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="GRAND LINE Banner" width="100%" />
 
   <a href="https://github.com/iavibin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Vibin+I+A;Full-Stack+Developer+%26+Shipwright;Navigating+the+Grand+Line" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=VIBIN+I+A;FULL-STACK+DEVELOPER+%26+SHIPWRIGHT;NAVIGATING+THE+GRAND+LINE" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,7 +24,7 @@ class Vibin:
         self.name = "Vibin I A"
         self.username = "iavibin"
         self.role = "Full-Stack Developer"
-        self.languages = ["Python", "C", "C++", "Java", "Kotlin", "TypeScript", "JavaScript"]
+        self.languages = ["Python", "C", "C++", "Java", "Kotlin", "TypeScript", "JavaScript", "HTML5", "CSS3"]
         self.interests = ["Open Source", "Hackathons", "Developer Tools", "Mobile Security"]
         self.current_focus = "Building scalable platforms & crafting practical tools"
 
