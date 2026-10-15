@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=iavibin&color=C30000&style=flat-square&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=iavibin&color=C30000&style=flat-square&label=PROFILE+VIEWS&labelColor=000000%22%20alt=%22Profile%20Views" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/iavibin?color=C30000&style=flat-square&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=000000" alt="Followers" />
   </p>
 </div>
