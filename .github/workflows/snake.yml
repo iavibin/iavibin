@@ -24,7 +24,7 @@ jobs:
           github_user_name: iavibin
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#C30000&color_dots=#ebedf0,#ffc0c0,#ff7070,#d62828,#C30000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C30000&color_dots=#161b22,#4c0a0a,#781010,#a31414,#C30000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#161b22,#4c0a0a,#781010,#a31414,#C30000
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -1,9 +1,9 @@
 <!-- 1. GRAND LINE — Header -->
 <div align="center">
-  <img src="assets/banner.png" alt="GRAND LINE Banner" width="100%" />
+  <img src="assets/banner.png" alt="GRAND LINE Banner" width="700" />
 
   <a href="https://github.com/iavibin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Hey%2C+I%27m+Vibin+I+A;Full-Stack+Developer+%26+Systems+Builder;Navigating+the+Grand+Line" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Vibin+I+A;Full-Stack+Developer+%26+Shipwright;Navigating+the+Grand+Line" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -60,40 +60,13 @@ class Vibin:
   <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=C30000" alt="Arduino" />
 </p>
 
----
-
-<!-- 4. Projects -->
-## ⚔️ Projects
-
-### [Kalantar](https://github.com/iavibin/kalantar)
-Digital archive platform dedicated to safeguarding endangered oral lore, indigenous languages, and bardic traditions.
-- **Stack:** `TypeScript` · `React` · `Vite` · `Tailwind CSS`
-- **Links:** [Repository](https://github.com/iavibin/kalantar) &bull; [Live Demo](https://kalantar.vercel.app)
-
-<br />
-
-### [Rimuru](https://github.com/iavibin/rimuru)
-Modular Python Discord bot providing automated server management, custom commands, and event handling.
-- **Stack:** `Python` · `discord.py` · `AsyncIO`
-- **Links:** [Repository](https://github.com/iavibin/rimuru)
-
-<br />
-
-### [Sentinel-APK](https://github.com/iavibin/sentinel-apk)
-Android mobile security analysis tool that inspects APK packages for suspicious background permissions and privacy risks.
-- **Stack:** `Kotlin` · `Android SDK` · `Gradle`
-- **Links:** [Repository](https://github.com/iavibin/sentinel-apk)
-
-<br />
-
-### [Ditto](https://github.com/iavibin/ditto)
-Stateless Discord media forwarder engineered to aggregate and relay media files across channels to a centralized gallery.
-- **Stack:** `TypeScript` · `Node.js` · `Discord.js`
-- **Links:** [Repository](https://github.com/iavibin/ditto)
+<p align="center">
+  <img src="assets/luffy.gif" alt="Luffy" width="220" />
+</p>
 
 ---
 
-<!-- 5. Bounty Board — GitHub statistics -->
+<!-- 4. Bounty Board — GitHub statistics -->
 ## 🏴‍☠️ Bounty Board
 
 <div align="center">
@@ -103,30 +76,25 @@ Stateless Discord media forwarder engineered to aggregate and relay media files 
 
 ---
 
-<!-- 6. Log Pose — Contribution activity -->
-## 🧭 Log Pose
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Log Pose Contribution Calendar" />
-</div>
-
----
-
-<!-- 7. Poneglyphs — Contribution snake -->
+<!-- 5. Poneglyphs — Contribution Activity & Snake -->
 ## 📜 Poneglyphs
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Contribution Calendar" />
+
+  <br /><br />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake.svg" />
-    <img alt="Poneglyphs Contribution Snake" src="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
 ---
 
-<!-- 8. Transponder Snails — Contact links -->
-## 🐌 Transponder Snails
+<!-- 6. Laugh Tale — Final Destination & Contacts -->
+## 👑 Laugh Tale
 
 <p align="center">
   <a href="https://github.com/iavibin">
@@ -143,15 +111,6 @@ Stateless Discord media forwarder engineered to aggregate and relay media files 
   </a>
 </p>
 
----
-
-<!-- 9. Laugh Tale — Footer -->
-## 👑 Laugh Tale
-
-<div align="center">
-  <img src="assets/luffy.gif" alt="Luffy — Laugh Tale" width="320" />
-  <p align="center">
-    <b>Chart your course, write clean code, and keep sailing forward.</b><br />
-    <i>Logged by Vibin I A (@iavibin)</i>
-  </p>
-</div>
+<p align="center">
+  <b>Chart your course, write clean code, and keep sailing forward.</b>
+</p>
