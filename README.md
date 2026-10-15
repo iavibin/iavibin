@@ -1,128 +1,152 @@
-<!-- HEADER -->
+<!-- 1. GRAND LINE — Header -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=200&section=header&descAlignY=51&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=C30000&strokeWidth=3&height=160&section=header&text=GRAND%20LINE&fontSize=46&fontColor=FFFFFF&fontAlignY=50&desc=NAVIGATING%20THE%20SEAS%20OF%20SOFTWARE%20ENGINEERING&descFontSize=16&descColor=C30000&descAlignY=70" width="100%" alt="GRAND LINE Header" />
+  
+  <br />
+
+  <a href="https://github.com/iavibin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Hey%2C+I%27m+Vibin+I+A;Full-Stack+Developer+%26+Systems+Builder;Navigating+the+Grand+Line" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=iavibin&color=C30000&style=flat-square&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/iavibin?color=C30000&style=flat-square&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=000000" alt="Followers" />
+  </p>
 </div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Vibin" alt="Typing SVG" />
-    </a>
-</div>
+---
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=DFFFF1&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
-</div>
+<!-- 2. Captain's Log — Introduction -->
+## 🧭 Captain's Log
 
-<br />
+Welcome aboard! I am a full-stack developer and software builder focused on engineering dependable web applications, backend services, and practical developer utilities. My work spans crafting cultural preservation platforms with TypeScript and React, automating server workflows with Python bots, analyzing Android application packages with Kotlin, and exploring systems-level programming in C and C++.
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=iavibin&color=0D1117&style=flat-square&label=PROFILE+VIEWS&labelColor=00FF88" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/iavibin?color=0D1117&style=flat-square&logo=github&logoColor=0D1117&label=FOLLOWERS&labelColor=00FF88" alt="Followers" />
-    <img src="https://img.shields.io/badge/iavibin-0D1117?style=flat-square&logo=github&logoColor=0D1117&label=GITHUB&labelColor=00FF88" alt="GitHub Username" />
+- ⚓ **Core Focus:** Web platforms, API development, and mobile security exploration.
+- 🛠️ **Engineering Mindset:** Writing maintainable code, solving practical challenges, and participating in hackathons.
+- 🗺️ **Active Journey:** Contributing to open-source software and continuously refining system performance and design architectures.
 
-</div>
-<br />
+---
 
-<!-- ABOUT -->
-```python
-class Vibin:
-    def __init__(self):
-        self.name = "Vibin"
-        self.username = "iavibin"
-        self.languages = ["Python", "C", "C++", "Java", "HTML"]
-        self.currently_learning = ["JavaScript", "CSS", "MongoDB"]
-        self.tools = ["git", "github", "mysql", "flask", "arduino", "fastapi"]
-        self.interests = [
-            "Hackathons", 
-            "Open Source", 
-            "Developer Tools",
-            "Artificial Intelligence"]
-
-        self.goal = "Build impactful software and continuously improve through projects, open-source contributions and hackathons."
-```
-
-<br />
-
-<!-- SKILLS -->
-<div align="center">
-
-## Tools
+<!-- 3. Devil Fruits — Skills -->
+## ⚡ Devil Fruits
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=C30000" alt="Python" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=C30000" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=C30000" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=C30000" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=C30000" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=C30000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=C30000" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=C30000" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=C30000" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=C30000" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=C30000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=C30000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=C30000" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=C30000" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=C30000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=C30000" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C30000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=C30000" alt="Arduino" />
 </p>
 
-</div>
-<br />
+---
 
-<!-- STATS -->
-<div align="center">
-    <p align="center" style="color: 00FF88;">GitHub Streak</p>
-    <img src="https://streak-stats.demolab.com/?user=iavibin&theme=dark&hide_border=true&background=0D1117&fire=00FF88&ring=00C853&currStreakNum=39FF14&sideNums=A6A6A6&currStreakLabel=00FF88&sideLabels=00FF88&dates=A6A6A6" alt="GitHub Streak" />
-</div>
+<!-- 4. Ancient Weapons — Projects -->
+## ⚔️ Ancient Weapons
 
-<br />
+### Kalantar
+Digital archive and cultural heritage preservation platform engineered to document, connect, and safeguard endangered oral lore, indigenous languages, and bardic traditions.
 
-<!-- CONTRIBUTION JOURNEY -->
-<div align="center">
-    <p align="center" style="color: 00FF88;">Contribution Calendar</p>
-    <img src="https://ghchart.rshah.org/00FF88/iavibin" alt="Contribution Calendar" />
-</div>
+- **Tech Stack:** `TypeScript` · `React` · `Vite` · `Tailwind CSS`
+- **Navigation:** [View Repository](https://github.com/iavibin/kalantar) &bull; [Live Demo](https://kalantar.vercel.app)
 
 <br />
 
-<!-- GRAPH -->
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iavibin&theme=react-dark&bg_color=0D1117&color=00FF88&line=00FF88&point=39FF14&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+### Rimuru
+Modular Discord utility bot engineered with Python and discord.py to provide automated server management, custom command handling, and event-driven interactions.
+
+- **Tech Stack:** `Python` · `discord.py` · `AsyncIO`
+- **Navigation:** [View Repository](https://github.com/iavibin/rimuru)
 
 <br />
 
-<!-- CONNECT -->
-<div align="center">
-    <a href="https://github.com/iavibin">
-        <img src="https://img.shields.io/badge/GitHub-008E55?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/iavibin">
-        <img src="https://img.shields.io/badge/LinkedIn-9A9A9A?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn" />
-    </a>
-    <a href="https://iavibin.bolt.host/">
-        <img src="https://img.shields.io/badge/Portfolio-008E55?style=for-the-badge&logoColor=0D1117" alt="Portfolio" />
-    </a>
-    <a href="mailto:iavibin08@gmail.com">
-        <img src="https://img.shields.io/badge/Email-9A9A9A?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" />
-    </a>
-</div>
+### Sentinel-APK
+Mobile security analysis application for Android designed to inspect APK packages for suspicious background permissions, hidden vulnerabilities, and privacy risks.
+
+- **Tech Stack:** `Kotlin` · `Android SDK` · `Gradle`
+- **Navigation:** [View Repository](https://github.com/iavibin/sentinel-apk)
 
 <br />
 
-<!-- QUOTE -->
+### Ditto
+Stateless, modular Discord media forwarding bot built to automate media routing, relaying images, video, and audio files across channels to a centralized gallery.
+
+- **Tech Stack:** `TypeScript` · `Node.js` · `Discord.js`
+- **Navigation:** [View Repository](https://github.com/iavibin/ditto)
+
+---
+
+<!-- 5. Bounty Board — GitHub statistics -->
+## 🏴‍☠️ Bounty Board
+
 <div align="center">
-
-```text
-"Keep Going."
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=iavibin&show_icons=true&bg_color=000000&title_color=C30000&text_color=FFFFFF&icon_color=C30000&border_color=C30000" alt="Bounty Board Stats" />
+  <img src="https://streak-stats.demolab.com/?user=iavibin&theme=dark&hide_border=false&background=000000&border=C30000&stroke=C30000&ring=C30000&fire=C30000&currStreakNum=FFFFFF&currStreakLabel=C30000&sideNums=FFFFFF&sideLabels=C30000&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<!-- FOOTER -->
+---
+
+<!-- 6. Log Pose — Contribution activity -->
+## 🧭 Log Pose
+
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=150&section=footer" alt="Footer Banner" />
-    <br />
-    <p align="center">
-        <b>Thanks for visiting — let's build something awesome together 🚀</b>
-    </p>
+  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Log Pose Contribution Graph" />
+</div>
+
+---
+
+<!-- 7. Poneglyphs — Contribution snake -->
+## 📜 Poneglyphs
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake.svg" />
+    <img alt="Poneglyphs Contribution Snake" src="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- 8. Transponder Snails — Contact links -->
+## 🐌 Transponder Snails
+
+<p align="center">
+  <a href="https://github.com/iavibin">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/iavibin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C30000" alt="LinkedIn" />
+  </a>
+  <a href="https://iavibin.bolt.host/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=C30000" alt="Portfolio" />
+  </a>
+  <a href="mailto:iavibin08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=C30000" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- 9. Laugh Tale — Footer -->
+## 👑 Laugh Tale
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C30000&height=120&section=footer" width="100%" alt="Laugh Tale Footer" />
+  <p align="center">
+    <b>Chart your course, write clean code, and keep sailing forward.</b><br />
+    <i>Logged by Vibin I A (@iavibin)</i>
+  </p>
 </div>
