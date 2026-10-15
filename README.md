@@ -1,8 +1,6 @@
 <!-- 1. GRAND LINE — Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=C30000&strokeWidth=3&height=160&section=header&text=GRAND%20LINE&fontSize=46&fontColor=FFFFFF&fontAlignY=50&desc=NAVIGATING%20THE%20SEAS%20OF%20SOFTWARE%20ENGINEERING&descFontSize=16&descColor=C30000&descAlignY=70" width="100%" alt="GRAND LINE Header" />
-  
-  <br />
+  <img src="assets/banner.png" alt="GRAND LINE Banner" width="100%" />
 
   <a href="https://github.com/iavibin">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Hey%2C+I%27m+Vibin+I+A;Full-Stack+Developer+%26+Systems+Builder;Navigating+the+Grand+Line" alt="Typing SVG" />
@@ -19,11 +17,22 @@
 <!-- 2. Captain's Log — Introduction -->
 ## 🧭 Captain's Log
 
-Welcome aboard! I am a full-stack developer and software builder focused on engineering dependable web applications, backend services, and practical developer utilities. My work spans crafting cultural preservation platforms with TypeScript and React, automating server workflows with Python bots, analyzing Android application packages with Kotlin, and exploring systems-level programming in C and C++.
+```python
+class Vibin:
+    def __init__(self):
+        self.name = "Vibin I A"
+        self.username = "iavibin"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "C", "C++", "Java", "Kotlin", "TypeScript", "JavaScript"]
+        self.interests = ["Open Source", "Hackathons", "Developer Tools", "Mobile Security"]
+        self.current_focus = "Building scalable platforms & crafting practical tools"
 
-- ⚓ **Core Focus:** Web platforms, API development, and mobile security exploration.
-- 🛠️ **Engineering Mindset:** Writing maintainable code, solving practical challenges, and participating in hackathons.
-- 🗺️ **Active Journey:** Contributing to open-source software and continuously refining system performance and design architectures.
+    def code(self):
+        while True:
+            self.learn()
+            self.build()
+            self.ship()
+```
 
 ---
 
@@ -53,38 +62,34 @@ Welcome aboard! I am a full-stack developer and software builder focused on engi
 
 ---
 
-<!-- 4. Ancient Weapons — Projects -->
-## ⚔️ Ancient Weapons
+<!-- 4. Projects -->
+## ⚔️ Projects
 
-### Kalantar
-Digital archive and cultural heritage preservation platform engineered to document, connect, and safeguard endangered oral lore, indigenous languages, and bardic traditions.
-
-- **Tech Stack:** `TypeScript` · `React` · `Vite` · `Tailwind CSS`
-- **Navigation:** [View Repository](https://github.com/iavibin/kalantar) &bull; [Live Demo](https://kalantar.vercel.app)
-
-<br />
-
-### Rimuru
-Modular Discord utility bot engineered with Python and discord.py to provide automated server management, custom command handling, and event-driven interactions.
-
-- **Tech Stack:** `Python` · `discord.py` · `AsyncIO`
-- **Navigation:** [View Repository](https://github.com/iavibin/rimuru)
+### [Kalantar](https://github.com/iavibin/kalantar)
+Digital archive platform dedicated to safeguarding endangered oral lore, indigenous languages, and bardic traditions.
+- **Stack:** `TypeScript` · `React` · `Vite` · `Tailwind CSS`
+- **Links:** [Repository](https://github.com/iavibin/kalantar) &bull; [Live Demo](https://kalantar.vercel.app)
 
 <br />
 
-### Sentinel-APK
-Mobile security analysis application for Android designed to inspect APK packages for suspicious background permissions, hidden vulnerabilities, and privacy risks.
-
-- **Tech Stack:** `Kotlin` · `Android SDK` · `Gradle`
-- **Navigation:** [View Repository](https://github.com/iavibin/sentinel-apk)
+### [Rimuru](https://github.com/iavibin/rimuru)
+Modular Python Discord bot providing automated server management, custom commands, and event handling.
+- **Stack:** `Python` · `discord.py` · `AsyncIO`
+- **Links:** [Repository](https://github.com/iavibin/rimuru)
 
 <br />
 
-### Ditto
-Stateless, modular Discord media forwarding bot built to automate media routing, relaying images, video, and audio files across channels to a centralized gallery.
+### [Sentinel-APK](https://github.com/iavibin/sentinel-apk)
+Android mobile security analysis tool that inspects APK packages for suspicious background permissions and privacy risks.
+- **Stack:** `Kotlin` · `Android SDK` · `Gradle`
+- **Links:** [Repository](https://github.com/iavibin/sentinel-apk)
 
-- **Tech Stack:** `TypeScript` · `Node.js` · `Discord.js`
-- **Navigation:** [View Repository](https://github.com/iavibin/ditto)
+<br />
+
+### [Ditto](https://github.com/iavibin/ditto)
+Stateless Discord media forwarder engineered to aggregate and relay media files across channels to a centralized gallery.
+- **Stack:** `TypeScript` · `Node.js` · `Discord.js`
+- **Links:** [Repository](https://github.com/iavibin/ditto)
 
 ---
 
@@ -102,7 +107,7 @@ Stateless, modular Discord media forwarding bot built to automate media routing,
 ## 🧭 Log Pose
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Log Pose Contribution Graph" />
+  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Log Pose Contribution Calendar" />
 </div>
 
 ---
@@ -144,7 +149,7 @@ Stateless, modular Discord media forwarding bot built to automate media routing,
 ## 👑 Laugh Tale
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C30000&height=120&section=footer" width="100%" alt="Laugh Tale Footer" />
+  <img src="assets/luffy.gif" alt="Luffy — Laugh Tale" width="320" />
   <p align="center">
     <b>Chart your course, write clean code, and keep sailing forward.</b><br />
     <i>Logged by Vibin I A (@iavibin)</i>
