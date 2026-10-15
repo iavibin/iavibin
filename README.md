@@ -1,6 +1,6 @@
 <!-- 1. GRAND LINE — Header -->
 <div align="center">
-  <img src="assets/banner.png" alt="GRAND LINE Banner" width="700" />
+  <img src="assets/banner.png" alt="GRAND LINE Banner" width="100%" />
 
   <a href="https://github.com/iavibin">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C30000&center=true&vCenter=true&width=550&lines=Vibin+I+A;Full-Stack+Developer+%26+Shipwright;Navigating+the+Grand+Line" alt="Typing SVG" />
@@ -15,6 +15,7 @@
 ---
 
 <!-- 2. Captain's Log — Introduction -->
+
 ## 🧭 Captain's Log
 
 ```python
@@ -37,6 +38,7 @@ class Vibin:
 ---
 
 <!-- 3. Devil Fruits — Skills -->
+
 ## ⚡ Devil Fruits
 
 <p align="center">
@@ -67,6 +69,7 @@ class Vibin:
 ---
 
 <!-- 4. Bounty Board — GitHub statistics -->
+
 ## 🏴‍☠️ Bounty Board
 
 <div align="center">
@@ -77,13 +80,10 @@ class Vibin:
 ---
 
 <!-- 5. Poneglyphs — Contribution Activity & Snake -->
+
 ## 📜 Poneglyphs
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/C30000/iavibin" alt="Contribution Calendar" />
-
-  <br /><br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iavibin/iavibin/output/github-contribution-grid-snake.svg" />
@@ -94,6 +94,7 @@ class Vibin:
 ---
 
 <!-- 6. Laugh Tale — Final Destination & Contacts -->
+
 ## 👑 Laugh Tale
 
 <p align="center">
